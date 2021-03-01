@@ -5,9 +5,10 @@ import './style.less'
 const Footer = Layout.Footer
 const TabPane = Tabs.TabPane;
 const imgs = [
-    `${process.env.REACT_APP_BASE_URL}/public/images/bg1.jpg`,
-    `${process.env.REACT_APP_BASE_URL}/public/images/bg2.jpg`,
-    `${process.env.REACT_APP_BASE_URL}/public/images/bg3.jpg`,
+    'http://47.99.130.140/imgs/wallhaven-p8r1e9.jpg',
+    'http://47.99.130.140/imgs/wallhaven-e7zyy8.jpg',
+    'http://47.99.130.140/imgs/wallhaven-6k9e7q.jpg',
+    'http://47.99.130.140/imgs/photo.jpg',
 ]
 
 class MyContent extends React.Component {

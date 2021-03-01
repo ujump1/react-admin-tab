@@ -42,7 +42,7 @@ class Login extends React.Component {
     render() {
         const { show } = this.state
         return (
-            <Background url={`${process.env.REACT_APP_BASE_URL}/public/images/login_bg1.jpg`}>
+            <Background url={require('../../assets/images/login.jpg')}>
                 <div className="login-container">
                     <div className={`box ${show === 'login' ? 'active' : ''}`}>
                         <LoginForm toggleShow={this.toggleShow} />
