@@ -2,57 +2,109 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30aa1f4d-81ef-402d-9fe0-ef5d4e87a304" name="Default Changelist" comment="修改readme">
+      <change afterPath="$PROJECT_DIR$/.idea/react-admin-tab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/. gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/admin-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/.env" beforeDir="false" afterPath="$PROJECT_DIR$/react/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/src/pages/Index/MyContent.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/src/pages/Index/MyContent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/src/pages/Login/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/src/pages/Login/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/bin/www" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/chat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/config/db.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/config/secret.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/controller/chat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/controller/message.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/controller/score.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/controller/user.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/controller/works.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/db/mysql.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/middlewares/errorHandle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/model/resModel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/images/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/images/bg1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/images/bg2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/images/bg3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/images/default.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/images/login_bg1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/images/login_bg2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/images/login_bg3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/stylesheets/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/upload-files/chat/01.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/upload-files/chat/1590399528000-ZZrRkP.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/upload-files/chat/c6e0629a36c94106be63f8fc72dd977a.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/upload-files/myUpload/01.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/upload-files/myUpload/217ad66f504747ca9b613036d3dcd453.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/upload-files/myUpload/67be71bd1a20486289f45005773386f2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/upload-files/myUpload/ece8c6fae0012978195c0ff364bc4c81.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/upload-files/myUpload/浪子康,杨洪才 - Xun（易硕成）-可惜我不是她（咚鼓版）（浪子康 ／ 杨洪才 remix）.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/message.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/score.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/user.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/works.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/sql/admin.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/utils/upload.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/utils/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/views/error.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/views/index.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/views/layout.pug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/color.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/config-overrides.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/public/color.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/iconfont/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/iconfont/demo_index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/iconfont/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/iconfont/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/iconfont/iconfont.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/iconfont/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/iconfont/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/iconfont/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/iconfont/iconfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/images/antd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/images/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/images/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/images/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/images/dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/images/light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/images/login.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/components/AnimatedBook/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/components/AnimatedBook/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/components/Background/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/components/ColorPicker/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/components/Loading/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/components/Loading/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/components/MyIcon/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/components/Phone/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/components/Phone/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/components/PrivateRoute/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/components/PromptBox/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/components/Typing/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/config/secret.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/About/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/ButtonDemo/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Chat/imgs/administrator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Chat/imgs/header1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Chat/imgs/header2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Chat/imgs/react.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Chat/imgs/zanwu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Chat/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Chat/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Collection/CreateModal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Collection/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Collection/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/FeedbackDemo/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/IconDemo/icons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/IconDemo/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/IconDemo/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Index/EditInfoModal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Index/EditPasswordModal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Index/MyContent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Index/MyHeader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Index/MySider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Index/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Index/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Login/LoginForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Login/RegisterForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Login/example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Login/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Login/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/MessageBoard/Score.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/MessageBoard/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/MessageBoard/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/MobileUI/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Users/CreateUserModal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Users/InfoModal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Users/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/tabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/store/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/store/reducers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/styles/main.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/styles/vars.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/utils/LoadableComponent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/utils/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/utils/asyncComponent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/utils/history.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/utils/session.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/utils/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/yarn.lock" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,73 +112,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react/src/pages/Index/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react/src/pages/Index/MySider.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1045">
-              <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react/src/pages/tabs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/react/.env">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react/src/pages/Index/MyContent.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react/node_modules/antd/lib/layout/layout.d.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -160,7 +145,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/Program Files/apache-maven-3.6.1" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Program Files/apache-maven-3.6.1" />
         <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -170,6 +155,7 @@
     <option name="width" value="2178" />
     <option name="height" value="1392" />
   </component>
+  <component name="ProjectId" id="1peQNNveEe6fz4Y1SQYfZ45FYai" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -237,8 +223,13 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -250,27 +241,16 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2019.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Idea Projects\mygit\admin-master\react\src\assets\images" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/react/package.json" />
+      <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
         <script value="start" />
@@ -285,6 +265,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -307,6 +288,8 @@
       <workItem from="1611566005212" duration="6679000" />
       <workItem from="1611622609708" duration="4671000" />
       <workItem from="1614562851492" duration="335000" />
+      <workItem from="1615541037572" duration="143000" />
+      <workItem from="1615541212421" duration="284000" />
     </task>
     <task id="LOCAL-00001" summary="修改readme">
       <created>1605258993794</created>
@@ -358,7 +341,19 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改readme" />
